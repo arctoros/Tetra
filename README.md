@@ -1,4 +1,4 @@
-# Tetra
+# tetra
 
 This is a clone of Tetris I made to learn JS.  
 It remains uncompleted, but playable.
